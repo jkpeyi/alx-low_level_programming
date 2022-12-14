@@ -18,4 +18,5 @@ _putchar(str[i]);
 i++;
 
 }
+return (0)
 }
