@@ -18,5 +18,5 @@ _putchar(str[i]);
 i++;
 
 }
-return (0)
+return (0);
 }
